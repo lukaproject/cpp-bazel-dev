@@ -20,9 +20,6 @@ apt-get install -y \
         make \
         libssl-dev \
         libgflags-dev \
-        libprotobuf-dev \
-        libprotoc-dev \
-        protobuf-compiler \
         libgtest-dev
 
 # install bazelisk
